@@ -179,6 +179,7 @@ input.content-input {
     outline-offset: 0px;
     padding: 3px;
     height: auto;
+    max-width: 95%;
 }
 
 
